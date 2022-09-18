@@ -2,12 +2,12 @@
     <string name="app_name">Droid Dashcam - DVR رانندگی</string>
 
     <string name="any_text">هر</string>
-    <string name="close">نزدیک</string>
+    <string name="close">بستن</string>
     <string name="default_text">پیش فرض</string>
-    <string name="disabled_text">معلول</string>
-    <string name="donate_dialog_item_no_ads_text">(بدون تبلیغات)</string>
+    <string name="disabled_text">غیرفعال شده</string>
+    <string name="donate_dialog_item_no_ads_text">(استفاده از برنامه بدون تبلیغات)</string>
     <string name="zoom_text">بزرگنمایی</string>
-    <string name="reset">تخلیه</string>
+    <string name="reset">ریست</string>
     <string name="unknown">ناشناخته</string>
 
     <string name="camera">دوربین</string>
